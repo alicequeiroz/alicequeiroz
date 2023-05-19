@@ -11,7 +11,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table style="border:0px solid white;"><tr><td valign="top" width="33%" style="border:0px;">
 
 
 ###   Testing
@@ -22,7 +22,7 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" style="border:0px;">
 
 ### Frontend  
 <div align="center">  
@@ -32,8 +32,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
+</td><td valign="top" width="33%" style="border:0px;">
 
 ### Backend  
 <div align="center">  
