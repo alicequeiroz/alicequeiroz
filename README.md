@@ -4,7 +4,7 @@
 #### I am a software quality assurance (QA) analyst. My focus on a team is always to ensure that all deliveries are examples of excellence, reliability and performance to ensure customer and user satisfaction. I mainly work with the JavaScript language using Cypress for E2E test automation. I also use Apache jmeter for load testing. 
   
 
-#### I have solid knowledge in functional and non-functional tests (usability, performance, security, load, recovery and failures) and in black box and white box tests applying the appropriate methodologies.I believe that quality is a factor that accompanies all stages of software development, so I like to work as a team and collaborate with all team members to ensure a high-quality software delivery.  
+#### I have solid knowledge in functional and non-functional tests (usability, performance, security, load, recovery and failures) and in black box and white box tests applying the appropriate methodologies. I believe that quality is a factor that accompanies all stages of software development, so I like to work as a team and collaborate with all team members to ensure a high-quality software delivery.  
   
 
 <br/>  
