@@ -16,7 +16,7 @@
 
 ###   Testing
 <div align="center">  
-<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://www.cypress.io/images/layouts/navbar-brand.svg" alt="Cypress.io" height="40" /></a>  
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" alt="Cypress.io" height="40" /></a>  
 <a href="https://cucumber.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg" alt="Cucumber" height="50" /></a>  
 <a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://jmeter.apache.org/images/logo.svg" alt="Express.js" height="40" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40" /></a>  
